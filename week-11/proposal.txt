@@ -18,7 +18,7 @@ supervisors know what we intend to do. Please answer each of the
 following questions to the best of your knowledge.)
 
 1. What is the title of your program?
-    bomb_refusal.py
+    bomb_defusal.py
 
 2. What real world problem will your program address or help to solve?
     It doesn't really solve a real world problem, but it is an example of game development,
