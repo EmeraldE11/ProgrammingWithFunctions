@@ -1,0 +1,44 @@
+Significant Program Proposal
+
+    I would like to write a program that simulates a bomb defusal scenario, as a more applicable
+practice for game development(my desired field). This program would present the user with a set of
+highly specific information about a randomly generated fictional bomb, and pre-written rules for correctly solving it
+will be provided. The user will have to enter multiple inputs based on the prompts, and while
+I'm unsure exactly how to apply it right now, it will hopefully have a live timer which if it runs
+out, will be a failure state. I will be basing this off of the game "Keep Talking and Nobody
+Explodes", if you would like more context I highly recommend looking it up.
+
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+    bomb_refusal.py
+
+2. What real world problem will your program address or help to solve?
+    It doesn't really solve a real world problem, but it is an example of game development,
+    so it may be a bit of a stretch, but I guess I could say a lack of entertainment.
+    For real world application, however, it could provide good teamwork and communication training
+    for real bomb defusal squads.
+
+3. What will you learn from developing this program?
+    I will learn how to complile randomized results into a whole with concrete results,
+    as well as building specific functions for smaller tasks.
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+    datetime, math, random
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+    YES, see question 3.
+
+6. Will you write test functions to test many of your program functions?
+    Due to the segmented nature of my project, I plan to test each function individually
+    without the need of test programs, though I may need to include one for the whole program.
