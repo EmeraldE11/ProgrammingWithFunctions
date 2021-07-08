@@ -1,5 +1,20 @@
 import math, random
 
+
+"""REMEMBER TO ADD TRY & EXCEPT CODE"""
+
+
+
+
+
+
+
+
+
+
+
+
+
 def main():
     """configure bomb, present tutorial prompts, show where to find manual,
     define bomb characteristics, set and run live timer(if possible at all)
